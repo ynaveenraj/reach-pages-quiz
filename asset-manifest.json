@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reach-pages-quiz/static/css/main.ca1e5aae.css",
+    "main.js": "/reach-pages-quiz/static/js/main.f150301e.js",
+    "static/js/787.efd998e5.chunk.js": "/reach-pages-quiz/static/js/787.efd998e5.chunk.js",
+    "index.html": "/reach-pages-quiz/index.html",
+    "main.ca1e5aae.css.map": "/reach-pages-quiz/static/css/main.ca1e5aae.css.map",
+    "main.f150301e.js.map": "/reach-pages-quiz/static/js/main.f150301e.js.map",
+    "787.efd998e5.chunk.js.map": "/reach-pages-quiz/static/js/787.efd998e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1e5aae.css",
+    "static/js/main.f150301e.js"
+  ]
+}
